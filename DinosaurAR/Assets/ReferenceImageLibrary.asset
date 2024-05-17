@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4643888208475529008
+  m_GuidHigh: 3502466523903364004
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5712880237256038125
+      m_GuidHigh: 2199372644980949182
+    m_SerializedTextureGuid:
+      m_GuidLow: 7254953608852400995
+      m_GuidHigh: 6035981374574543816
+    m_Size: {x: 0.1, y: 0.06666667}
+    m_SpecifySize: 1
+    m_Name: dinosaur1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5087639104685043543
+      m_GuidHigh: 4945727842543727504
+    m_SerializedTextureGuid:
+      m_GuidLow: 4956228887898271539
+      m_GuidHigh: 4508326438593800089
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: dinosaur2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5562711572522964988
+      m_GuidHigh: 17813874852121953975
+    m_SerializedTextureGuid:
+      m_GuidLow: 14157644158598449920
+      m_GuidHigh: 16701401470068956744
+    m_Size: {x: 0.1, y: 0.057142857}
+    m_SpecifySize: 1
+    m_Name: dinosaur3
+    m_Texture: {fileID: 0}
